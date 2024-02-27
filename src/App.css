@@ -1,0 +1,17 @@
+body {
+  font-family: arial;
+}
+
+input, button {
+  padding: 0.5rem 1rem;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+p {
+  margin-bottom: 0;
+}
